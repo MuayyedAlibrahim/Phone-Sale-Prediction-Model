@@ -162,7 +162,7 @@ Optimal kullanım için veriler şunları içermelidir:
 ### 🌐 Streamlit Cloud'da Çalışan Demo
 
 Bu uygulama Streamlit Cloud'da yayınlanmıştır: 
-**🔗 [Canlı Demo]([https://share.streamlit.io/](https://phone-sale-prediction-model.streamlit.app/))**
+**🔗 https://phone-sale-prediction-model.streamlit.app**
 
 ### 🤝 Katkı Sağlama / Contributing
 
