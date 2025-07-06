@@ -1,23 +1,22 @@
-# 📱 Telefon Satış Tahmin Modeli
-## Phone Sales Prediction Model
+📱 Telefon Satış Tahmin Modeli
+Phone Sales Prediction Model
 
-### 🌟 Proje Hakkında / Project Overview
+🌟 Proje Hakkında / Project Overview
 
 Bu proje, makine öğrenmesi teknikleri kullanarak telefon satışlarını tahmin etmek için geliştirilmiş interaktif bir uygulamadır. Uygulama, veri analizi, model eğitimi ve telefon özelliklerine dayalı tahminler yapma imkanı sunar.
 
 This project is an interactive application for predicting phone sales using machine learning techniques. The application allows data analysis, model training, and making predictions based on phone specifications.
 
-### 🎯 Ana Özellikler / Key Features
+🎯 Ana Özellikler / Key Features
 
-- **📊 İnteraktif Veri Analizi**: Veri keşfi ve görselleştirme
-- **🧠 Model Eğitimi**: Dengesiz verilerle başa çıkmak için Random Forest + SMOTE
-- **🔮 Anlık Tahmin**: Telefon özelliklerini girerek tahmin alma
-- **📈 Performans Değerlendirmesi**: Kapsamlı model performans metrikleri
-- **💾 Model Kaydetme**: Eğitilmiş modelleri kaydetme ve yükleme
+- 📊 İnteraktif Veri Analizi**: Veri keşfi ve görselleştirme
+- 🧠 Model Eğitimi**: Dengesiz verilerle başa çıkmak için Random Forest + SMOTE
+- 🔮 Anlık Tahmin**: Telefon özelliklerini girerek tahmin alma
+- 📈 Performans Değerlendirmesi**: Kapsamlı model performans metrikleri
+- 💾 Model Kaydetme**: Eğitilmiş modelleri kaydetme ve yükleme
 
-### 🛠️ Gereksinimler / Requirements
+🛠️ Gereksinimler / Requirements
 
-```bash
 streamlit
 pandas
 numpy
@@ -27,54 +26,50 @@ scikit-learn
 imbalanced-learn
 joblib
 shap
-```
 
-### 📦 Kurulum / Installation
 
-1. **Projeyi klonlayın / Clone the repository**
-```bash
-git clone https://github.com/MuayyedAlibrahim/Phone-Sale-Prediction-Model.git
-cd Phone-Sale-Prediction-Model
-```
+📦 Kurulum / Installation
 
-2. **Sanal ortam oluşturun / Create virtual environment**
-```bash
+1. Projeyi klonlayın / Clone the repository
+https://github.com/MuayyedAlibrahim/Phone-Sale-Prediction-Model.git
+
+2. Sanal ortam oluşturun / Create virtual environment**
+
 python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# veya
-venv\Scripts\activate  # Windows
-```
+source venv/bin/activate   Linux/Mac
+ veya
+venv\Scripts\activate   Windows
 
-3. **Gerekli paketleri yükleyin / Install required packages**
-```bash
+
+3. Gerekli paketleri yükleyin / Install required packages**
+
 pip install -r requirements.txt
-```
 
-### 🗂️ Proje Yapısı / Project Structure
 
-```
+🗂️ Proje Yapısı / Project Structure
+
+
 Phone-Sale-Prediction-Model/
-├── app.py                 # Ana uygulama dosyası
-├── Sales_birlesik.csv     # Satış verileri
-├── model/                 # Kaydedilmiş modeller klasörü
+├── app.py                  Ana uygulama dosyası
+├── Sales_birlesik.csv      Satış verileri
+├── model/                  Kaydedilmiş modeller klasörü
 │   ├── telefon_satis_model.pkl
 │   ├── telefon_satis_scaler.pkl
 │   └── telefon_satis_ozellikler.pkl
-├── requirements.txt       # Proje gereksinimleri
-└── README.md             # Bu dosya
-```
+├── requirements.txt        Proje gereksinimleri
+└── README.md              Bu dosya
 
-### 🚀 Kullanım / How to Use
 
-1. **Uygulamayı çalıştırın / Run the application**
-```bash
+🚀 Kullanım / How to Use
+
+1. Uygulamayı çalıştırın / Run the application
+
 streamlit run app.py
-```
 
-2. **Tarayıcıyı açın / Open browser**
-   - Şu adrese gidin: `http://localhost:8501`
+2. Tarayıcıyı açın / Open browser
+   - Şu adrese gidin: http://localhost:8501
 
-3. **Uygulamayı kullanın / Using the application**
+3. Uygulamayı kullanın / Using the application
    - **🏠 Ana Sayfa**: Uygulama hakkında bilgi
    - **📊 Veri Analizi**: Veri keşfi ve görselleştirme
    - **🧠 Model Eğitimi**: Makine öğrenmesi modelini eğitme
@@ -163,7 +158,7 @@ Optimal kullanım için veriler şunları içermelidir:
 ### 🌐 Streamlit Cloud'da Çalışan Demo
 
 Bu uygulama Streamlit Cloud'da yayınlanmıştır:
-**🔗 [Canlı Demo](https://share.streamlit.io/)**
+https://phone-sale-prediction-model.streamlit.app
 
 ### 🤝 Katkı Sağlama / Contributing
 
