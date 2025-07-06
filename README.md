@@ -33,7 +33,7 @@ shap
 
 1. **Projeyi klonlayın / Clone the repository**
 ```bash
-git clone [https://github.com/MuayyedAlibrahim/Phone-Sale-Prediction-Model.git]
+https://github.com/MuayyedAlibrahim/Phone-Sale-Prediction-Model.git
 ```
 
 2. **Sanal ortam oluşturun / Create virtual environment**
