@@ -177,8 +177,6 @@ Katkılarınızı memnuniyetle karşılıyoruz! Şunları yapabilirsiniz:
 Herhangi bir soru veya yardım için:
 - **GitHub**: [MuayyedAlibrahim](https://github.com/MuayyedAlibrahim)
 - **Email**: muayyedalibrahim@gmail.com
-- **LinkedIn**: [Muayyed Alibrahim](https://www.linkedin.com/in/muayyed-alibrahim)
-- **Twitter**: [@MuayyedAlibrahim](https://twitter.com/MuayyedAlibrahim)
 
 ### 📄 Lisans / License
 
