@@ -159,10 +159,7 @@ Optimal kullanım için veriler şunları içermelidir:
 3. **Bellek**: Büyük veriler için yeterli bellek gerekli
 4. **Güncelleme**: Model yeniden eğitilerek güncellenebilir
 
-### 🌐 Streamlit Cloud'da Çalışan Demo
 
-Bu uygulama Streamlit Cloud'da yayınlanmıştır: 
-**🔗 https://phone-sale-prediction-model.streamlit.app**
 
 ### 🤝 Katkı Sağlama / Contributing
 
